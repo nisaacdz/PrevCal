@@ -1,0 +1,22 @@
+/**
+I would create a reader to read the constraints
+And a writer to write the constraints
+**/
+theme{
+	
+}
+previous_session{
+	
+}
+
+settings{
+	
+}
+
+serialVersionUID{
+	1L;
+}
+
+versionControl{
+
+}
